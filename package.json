@@ -1,0 +1,8 @@
+{
+  "name": "renovate-test-project",
+  "version": "1.0.0",
+  "description": "A simple project to test Renovate",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
